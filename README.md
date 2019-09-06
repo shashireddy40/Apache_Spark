@@ -1,4 +1,4 @@
-# Apache_Spark
+	# Apache_Spark
 Spark with Scala
 Scala Fundamentals
 Transformations
@@ -8,3 +8,4 @@ DF Operations
 Registering temp tables
 File formates
 Saving Data into Hive
+Analytics with Spark-SQL

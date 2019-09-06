@@ -1,5 +1,4 @@
 # Apache_Spark
-
 Spark with Scala
 Scala Fundamentals
 Transformations
